@@ -1,10 +1,4 @@
-
-A succinct summary of how to run the code, which version of Python, Scala & Spark are used and approach followed to implement the algorithm.
----
-### 
-### Solution
----
-
+Market-Basket analysis for movies and users
 - The aim of this project is finding combination of frequent itemsets for the MovieLens dataset. I have used Apriori and SON algorithm to develop my solution. 
 - Following is a step by step description of the implementation.
   - Based on the case number, RDD is created by reading the input CSV file using the groupByKey so that an RDD conforming to the required format is created.
