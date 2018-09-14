@@ -1,6 +1,3 @@
-# FrequentItemsetsSON
-INF 553 
-
 
 A succinct summary of how to run the code, which version of Python, Scala & Spark are used and approach followed to implement the algorithm.
 ---
