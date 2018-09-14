@@ -44,42 +44,7 @@ spark-submit Piyush_Umate_SON.py <case_number> <file_path> <support>
 spark-submit --class FrequentItemsetsSON Piyush_Umate_SON.jar <case_number> <file_path> <support>
 ```
 
----
----
 
-
-### Execution Times
----
-
-### Problem 1
-**Small2 (execution time in seconds)**
-![Image](/Users/piyushumate/Documents/medley/resources/HkqxlYjx7_H1k6uLnxX.png)
-
----
-### Problem 2
-**MovieLens Small - Python (**execution time in seconds**)**
-![Image](/Users/piyushumate/Documents/medley/resources/HkqxlYjx7_BJqNeholm.png)
-
----
-
-### Problem 3
-**MovieLens Big - Python (**execution time in seconds**)**
-![Image](/Users/piyushumate/Documents/medley/resources/HkqxlYjx7_SJQVE3jlX.png)
-
----
-
-### Problem 2
-**MovieLens Small - Scala (**execution time in seconds**)**
-![Image](/Users/piyushumate/Documents/medley/resources/HkqxlYjx7_rkQeaH2gQ.png)
-
-
----
-
-### Problem 3
-**MovieLens Big - Scala (**execution time in seconds**)**
-![Image](/Users/piyushumate/Documents/medley/resources/HkqxlYjx7_SyGdN8hgm.png)
-
----
 
 
 > Output file will be generated in the same folder in which the code is executed.
